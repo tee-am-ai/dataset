@@ -180,21 +180,21 @@ Apa nama gurun terbesar di Amerika Selatan?|\n\nGurun Atacama
 Siapa penulis buku "Dracula"?|\n\nBram Stoker
 Apa nama ibu kota Filipina?|\n\nManila
 Apa nama danau terbesar di Amerika Selatan?|\n\nDanau Titicaca
-@6285757707248 inya sudah berjalan normal kah|?\n\nYa, sudah berjalan normal.
-@6285757707248 inya sudah berjalan normal kah|?\n\nYa, sudah berjalan normal.
-kenapa bandung|\n\nKarena Bandung barudak well
-hello|\n\nHi there! How can I help you?
-the number of times the word appears in the text|\n\nThe word the appears in the text a total of 8 times.
-hi|\n\n#include <stdio.h>\n\nint main(void)\n{\n    printf(""Hi!\n"")
-hi|\n\n#include <stdio.h>\n\nint main(void)\n{\n    printf(""Hi!\n"")
-python|\n\n#!/usr/bin/env python\n\nimport sys\n\n# input comes from STDIN (standard input)\nfor line in sys.stdin:\n    # remove leading and trailing whitespace\n    line = line.strip()\n    # split the line into words\n    words = line.split()\n    # increase counters\n    for word in words:\n        # write the results to STDOUT (standard output)
-pandas|DataFrame.to_csv\n\nThe pandas DataFrame.to_csv() function is used to write a DataFrame to a comma-separated values (csv) file. It allows the user to specify the delimiter, the line terminator, the encoding, and more. It also allows the user to specify the index, header, and other parameters. The output of the function is a csv file that can be opened in any text editor or spreadsheet program.
-numpy|ndarray\n\nNumPy ndarray is a multidimensional array object used for storing homogeneous data. It is a powerful tool for performing mathematical and statistical operations on large datasets. It is an efficient way to store and manipulate data in Python. It is also used for creating and manipulating arrays of any size and shape.
-input presensi mode tmafcv|\n\nMode TMAFCV adalah mode presensi yang menggunakan kombinasi dari teknologi pengenalan wajah, sidik jari, kartu, dan kode QR. Mode ini memungkinkan pengguna untuk melakukan presensi dengan menggunakan salah satu dari empat metode yang disebutkan di atas.
-np|a library for the Python programming language
-yaa|\n\nKyaa\n\nKyaa aap mujhe bata sakte hain ki aap kya kar rahe hain?
-hai|\n\nThe word ""hai"" is a Japanese word meaning ""yes."" It is used as an affirmative response to a question or statement.
-pd|DataFrame(data=d)\n\nÂ§ Output\n\n> ['   a  b  c\n', '0  1  2  3\n', '1  4  5  6\n', '2  7  8  9']\n\n\nÂ§ Code\n\n# Create a Dictionary of series\nd = {'Name':pd.Series(['Tom','James','Ricky','Vin','Steve','Smith','Jack']),\n   'Age':pd.Series([25,26,25,23,30,29,23]),\n   'Rating':pd.Series([4.23,3.24,3.98,2.56,3.20,4.6,3.8])}\n\n# Create a DataFrame\ndf =
+Apa ibu kota Vietnam?|\n\nHanoi
+Siapa penulis novel "The Da Vinci Code"?|\n\nDan Brown
+Apa nama satelit alami terbesar di tata surya?|\n\nGanymede
+Apa mata uang resmi Korea Utara?|\n\nWon Korea Utara
+Apa nama gunung tertinggi di Amerika Utara?|\n\nGunung Denali
+Siapa penulis buku "The Chronicles of Narnia"?|\n\nC.S. Lewis
+Apa nama lautan yang terletak di sebelah utara Rusia?|\n\nSamudra Arktik
+Siapa pelukis dari lukisan "The Last Supper"?|\n\nLeonardo da Vinci
+Apa nama ibu kota Pakistan?|\n\nIslamabad
+Apa nama negara dengan populasi terkecil di dunia?|\n\nVatikan
+Apa nama ibu kota Nepal?|\n\nKathmandu
+Siapa penulis novel "The Shining"?|\n\nStephen King
+Apa nama planet terbesar dalam tata surya?|\n\nJupiter
+Apa mata uang resmi Inggris?|\n\nPound Sterling
+Apa nama gunung tertinggi di Amerika Selatan?|\n\nAconcagua
 hello|\n\nHi there! How can I help you?
 wake me up|\n\nI'm sorry, I can't do that.
 why|\n\nThe main reason why it is important to have a good understanding of the different types of computer networks is because different types of networks are used for different purposes. For example, a Local Area Network (LAN) is used for connecting computers within a small area, while a Wide Area Network (WAN) is used for connecting computers over a large area. Knowing the different types of networks and their uses can help you determine which type of network is best suited for your needs.
