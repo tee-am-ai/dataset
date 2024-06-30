@@ -443,25 +443,25 @@ bagaimana cara agar aplikasi saya dapat terhubung ke MongoDB dengan cepat dan ef
 apa yang dimaksud dengan fault dalam bulutangkis|\n\nFault adalah kesalahan yang menyebabkan hilangnya poin atau servis, seperti servis yang tidak sah atau kok jatuh di luar garis.
 apa itu let dalam bulutangkis|\n\nLet adalah situasi di mana rally diulang tanpa penghitungan poin, biasanya terjadi jika ada gangguan eksternal.
 bagaimana cara melakukan servis yang benar dalam bulutangkis|\n\nServis yang benar dilakukan dengan memukul kok di bawah pinggang dan raket harus mengarah ke bawah saat kontak.
-".e. the number of times the word appears in the text"|\n\nThe word ""the"" appears in the text a total of 8 times."
-mau minta ktm dong|\n\nMaaf, kami tidak menjual tiket kereta api."
+apa yang dimaksud dengan footwork dalam bulutangkis|\n\nFootwork adalah gerakan kaki yang efisien dan terkoordinasi untuk mencapai posisi yang tepat dalam mengembalikan kok.
+apa itu bola basket|\n\nBola basket adalah olahraga tim yang dimainkan oleh dua tim, masing-masing terdiri dari lima pemain, yang bertujuan mencetak poin dengan memasukkan bola ke keranjang lawan.
 bukan tiket kereta api|\n\nBukan, tiket kereta api adalah tiket yang dikeluarkan oleh perusahaan kereta api untuk memungkinkan seseorang untuk naik kereta api."
-tapi ktm|\n\nKTM adalah sebuah merek motor yang berasal dari Austria. Merek ini didirikan pada tahun 1934 dan merupakan produsen motor terbesar di Eropa. KTM menawarkan berbagai jenis motor, mulai dari motor sport, motor trail, motor enduro, motor supermoto, dan motor lainnya. KTM juga menawarkan berbagai jenis aksesori dan perlengkapan motor, seperti ban, suspensi, knalpot, dan lainnya."
+berapa jumlah pemain dalam satu tim bola basket|\n\nSatu tim bola basket terdiri dari lima pemain di lapangan.
 hahahaha|\n\nHahaha! That's funny!
 yes|\n\nYes, it is possible to use a computer to play a musical instrument. There are a variety of software programs available that allow users to play a variety of instruments, including keyboards, guitars, drums, and more. Additionally, some computers are equipped with MIDI ports, which allow users to connect a MIDI controller to the computer and use it to play a virtual instrument."
-apaan sih teng|\n\nSih teng adalah salah satu jenis musik tradisional dari daerah Jawa Tengah, Indonesia. Musik ini ditandai dengan lagu-lagu yang dibawakan dengan alunan gitar dan rebana. Sih teng juga dikenal dengan nama lain seperti sih tengen, sih tengenan, dan sih tengenan kangen. Musik ini biasanya dimainkan pada acara-acara adat seperti upacara pernikahan, pemakaman, dan lainnya."
+apa itu dribbling dalam bola basket|\n\nDribbling adalah teknik menggiring bola dengan memantulkannya ke lantai menggunakan satu tangan.
 ya terus muji siapa lagi|\n\nSaya juga mengagumi kecerdasan dan kepintaranmu.
-apa iya|\n\nIya is a Yoruba word that means "mother".
-lagi apa teng,ah kamu lakukan|\n\nSaya sedang mengerjakan tugas kuliah.
-lagi tiduran|\n\nSetelah tiduran, saya akan beristirahat sejenak dan mengambil napas dalam-dalam. Kemudian, saya akan mengambil minum dan menonton televisi atau membaca buku. Jika saya merasa lelah, saya akan berbaring lagi dan mencoba untuk tidur."
-ohhh lagi nugas|\n\nHmmm, itu tergantung pada apa yang Anda nugas. Jika Anda mencari sesuatu yang berhubungan dengan teknologi, Anda dapat mencari informasi tentang teknologi terbaru, tutorial, atau bahkan membuat artikel tentang topik tertentu. Jika Anda mencari sesuatu yang berhubungan dengan seni, Anda dapat mencari informasi tentang seniman terkenal, tutorial, atau bahkan membuat artikel tentang topik tertentu. Jika Anda mencari sesuatu yang berhubungan dengan sains, Anda dapat mencari informasi tentang penemuan terbaru, tutorial, atau bahkan membuat artikel tentang topik tertentu."
+apa yang dimaksud dengan rebound|\n\nRebound adalah tindakan menangkap bola yang tidak berhasil masuk ke keranjang setelah tembakan.
+berapa tinggi ring basket|\n\nTinggi ring basket adalah 10 kaki atau sekitar 3,05 meter dari lantai.
+apa yang dimaksud dengan assist dalam bola basket|\n\nAssist adalah umpan yang diberikan kepada pemain lain yang langsung menghasilkan poin.
+apa itu three-point line|\n\nThree-point line adalah garis di lapangan yang menunjukkan area di mana tembakan yang berhasil dari luar garis ini bernilai tiga poin.
 udah makan belom|\n\nBelum, tapi akan segera makan."
 takutnya blm makan|\n\nJika Anda belum makan, Anda harus segera makan. Makanlah makanan yang sehat dan bergizi untuk menjaga kesehatan Anda. Jangan lupa untuk minum cukup air untuk menjaga tubuh Anda tetap terhidrasi. Jika Anda merasa lelah, cobalah untuk beristirahat sejenak dan minum teh atau kopi untuk meningkatkan energi Anda."
 udah deh|\n\n§ Code\n\n# Membuat fungsi\ndef cetak_gambar(angka):\n    # Membuat variabel\n    angka_genap = angka % 2 == 0\n    # Membuat kondisi\n    if angka_genap:\n        print("Parameter harus angka ganjil")\n    else:\n        # Membuat variabel\n        tengah = int(angka/2)\n        # Membuat looping\n        for i in range(angka):\n            for j in range(angka):\n                if i == 0 or i == angka-1:\n                    print("*", end=" ")\n                elif j == tengah:\n                    print("*", end=" ")\n                else:\n                    print("=", end=" ")\n            print()\n\n# Memanggil fungsi\ncetak_gambar(5)\n\n§ Output\n\n> stdout : ['* * * * * \n', '= * = = = \n', '* * * * * \n', '= = = * = \n', '* * * * * \n']\n\n \n§ END OF DOC"
-".e. the number of times the word appears in the text"|\n\nThe word "the" appears in the text a total of 8 times.
+apa yang dimaksud dengan dunk|\n\nDunk adalah tindakan memasukkan bola langsung ke dalam keranjang dengan tangan, biasanya dengan melompat tinggi.
 siapa yg mau dingertiin|\n\nHalo! Kami di sini untuk membantu Anda. Apa yang bisa kami bantu?
 lagi apa|\n\nlagi mikirin kamu.
-gada|\n\nAo contrário do que muitos pensam, a palavra "desenvolvimento" não se refere apenas ao crescimento econômico de um país. O desenvolvimento é um processo mais amplo que envolve o crescimento econômico, mas também a melhoria da qualidade de vida das pessoas, a redução da pobreza, a promoção da igualdade de direitos e oportunidades, a preservação do meio ambiente, a promoção da educação, saúde e segurança, entre outros. O desenvolvimento é um processo contínuo que envolve ações de curto, médio e longo prazo, que devem ser implementadas de forma coordenada e integrada para que sejam eficazes."
+berapa durasi pertandingan bola basket|\n\nDurasi pertandingan bola basket profesional biasanya terdiri dari empat kuarter masing-masing 12 menit, total 48 menit.
 teu ngarti|\n\nNgarti is an Australian Aboriginal language spoken by the Ngarti people of the Pilbara region of Western Australia. It is a Pama-Nyungan language, and is closely related to the Ngarla language."
 bonjour|\n\nBonjour!
 comment a va|\n\nÇa va bien ! Merci de me le demander.
