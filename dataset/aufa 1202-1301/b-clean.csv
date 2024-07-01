@@ -519,7 +519,7 @@ Apa itu JSON?|JSON (JavaScript Object Notation) adalah format pertukaran data ya
 Apa itu UAT beta?|UAT beta adalah fase di mana versi pra-rilis dari perangkat lunak diuji oleh sekelompok pengguna akhir untuk mengidentifikasi masalah atau bug yang mungkin terlewatkan selama pengujian sebelumnya.
 sombong|Sombong behavior is characterized by arrogance, haughtiness, and a sense of superiority. It is often seen as a negative trait and can be off-putting to others. People who are sombong may act as if they are better than everyone else and may be dismissive or condescending. They may also be unwilling to listen to others or take advice.
 besok beli baju baru|Selamat! Semoga Anda menemukan baju yang sempurna. Pastikan untuk memeriksa ukuran dan kualitas baju sebelum membelinya. Jangan lupa untuk membandingkan harga di berbagai toko untuk mendapatkan harga terbaik.
-lagi apa|yang kamu lakukan\n\nSebelumnya, saya baru saja menyelesaikan tugas yang diberikan oleh guru saya. Saya juga mengerjakan beberapa tugas lainnya seperti membaca buku dan mengerjakan latihan soal. Selain itu, saya juga menonton beberapa video di YouTube untuk menambah pengetahuan saya. Sekarang, saya sedang mengerjakan tugas lain yang diberikan oleh guru saya.
+Apa itu GIL?|GIL (Global Interpreter Lock) adalah mekanisme di Python yang membatasi eksekusi bytecode Python ke satu thread pada satu waktu.
 Apa itu pytest?|Pytest adalah framework pengujian untuk Python yang mendukung pengujian unit, pengujian fungsional, dan pengujian integrasi.
 Apa itu mocking?|Mocking adalah teknik dalam pengujian unit di mana objek tiruan digunakan untuk menguji perilaku bagian dari kode.
 Apa itu logging?|Logging adalah proses mencatat pesan dari aplikasi selama runtime untuk tujuan debugging dan monitoring.
@@ -530,15 +530,15 @@ Apa itu kecapi?|Kecapi adalah alat musik petik tradisional Sunda yang sering dig
 Apa itu unittest?|Unittest adalah pustaka bawaan Python untuk menulis dan menjalankan pengujian unit untuk kode Python.
 Mengapa penting untuk memiliki data uji yang realistis dalam UAT?|Memiliki data uji yang realistis penting untuk memastikan bahwa pengujian mencerminkan kondisi dan penggunaan sistem yang sesungguhnya.
 Apa yang dimaksud dengan sign-off dalam UAT?|Sign-off dalam UAT adalah persetujuan formal dari pengguna akhir atau klien bahwa sistem memenuhi kriteria penerimaan dan siap untuk rilis.
-minta drop mata kuliah|Untuk mengetahui mata kuliah yang ditawarkan di suatu universitas, Anda dapat mengunjungi situs web universitas tersebut atau menghubungi bagian akademik untuk informasi lebih lanjut.
-inpu absensi mode tm blsh|Maaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
-inpus absensi tm knfa|Maaf, saya tidak mengerti maksud Anda. Mohon dijelaskan lebih lanjut.
-inpus absensi tm lxtr|Maaf, saya tidak mengerti apa yang Anda maksud dengan inpus absensi tm lxtr. Mohon maaf atas ketidaknyamanan ini.
-inpus absensi tm lxer|Maaf, saya tidak mengerti apa yang Anda maksud dengan inpus absensi tm lxer. Mohon maaf atas ketidaknyamanan ini.
+Apa itu Selenium?|Selenium adalah alat untuk otomatisasi browser web, sering digunakan untuk pengujian aplikasi web dan web scraping.
+Apa itu asynchronous programming?|Asynchronous programming adalah model pemrograman yang memungkinkan eksekusi tugas secara bersamaan tanpa menunggu satu sama lain selesai.
+Apa itu async dan await?|`async` dan `await` adalah kata kunci di Python yang digunakan untuk menulis kode asynchronous dengan lebih mudah dan intuitif.
+Apa itu threading?|Threading adalah teknik untuk menjalankan beberapa operasi secara bersamaan dalam satu proses menggunakan thread.
+Apa itu multiprocessing?|Multiprocessing adalah teknik untuk menjalankan beberapa operasi secara bersamaan menggunakan beberapa proses.
 Apa itu suling?|Suling adalah alat musik tiup tradisional Sunda yang terbuat dari bambu.
-input absensi haes|Input absensi adalah proses memasukkan data kehadiran siswa atau karyawan ke dalam sistem. Data yang dimasukkan meliputi tanggal, jam masuk, jam pulang, dan jenis absensi. Data ini kemudian digunakan untuk menghitung jumlah jam kerja, gaji, dan lainnya.
-kelas luring sekesai mode tm materi presentasi 2 final|\n\n1. Pastikan bahwa Anda memiliki koneksi internet yang cukup kuat.\n\n2. Pastikan bahwa Anda telah menyiapkan presentasi Anda dengan baik.\n\n3. Pastikan bahwa Anda telah menyiapkan semua alat yang diperlukan untuk presentasi Anda.\n\n4. Pastikan bahwa Anda telah menyiapkan semua materi yang akan Anda sampaikan.\n\n5. Pastikan bahwa Anda telah menyiapkan semua gambar, video, dan grafik yang akan Anda gunakan.\n\n6. Pastikan bahwa Anda telah menyiapkan semua alat bantu presentasi yang akan Anda gunakan.\n\n7. Pastikan bahwa Anda telah menyiapkan semua konten yang akan Anda sampaikan.\n\n8. Pastikan bahwa Anda telah menyiapkan semua pertanyaan yang akan Anda ajukan kepada audiens.\n\n9. Pastikan bahwa Anda telah menyiapkan semua jawaban yang akan Anda berikan kepada audiens.\n\n10. Pastikan bahwa Anda telah menyiapkan semua materi yang akan Anda sampaikan dengan baik.
-input absensi tmzqqi|Absensi TMZQQI telah dicatat. Terima kasih.
+Bagaimana cara membuat API di Python?|API di Python bisa dibuat menggunakan framework seperti Flask atau Django dengan mendefinisikan rute dan handler yang sesuai.
+Apa itu web scraping?|Web scraping adalah proses mengunduh dan mengekstraksi data dari situs web secara otomatis menggunakan skrip.
+Apa itu BeautifulSoup?|BeautifulSoup adalah pustaka Python yang digunakan untuk parsing HTML dan XML, memudahkan web scraping.
 inpuy absensi tm rmvt|Input absensi TM RMVT dapat dilakukan dengan menggunakan aplikasi absensi yang telah disediakan oleh perusahaan. Aplikasi ini dapat diakses melalui komputer atau smartphone. Setelah masuk ke aplikasi, pengguna dapat memilih opsi untuk memasukkan data absensi TM RMVT. Setelah data absensi dimasukkan, pengguna dapat menyimpan data dan mencetak laporan absensi.
 Apa yang dilakukan setelah UAT selesai?|Setelah UAT selesai, hasil pengujian dianalisis, bug diperbaiki, dan sistem disiapkan untuk rilis ke produksi.
 verifikasi va mahasiswa|data tidak tersedia
