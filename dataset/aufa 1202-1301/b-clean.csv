@@ -839,18 +839,18 @@ Apa itu fingerprint sensor?|Fingerprint sensor adalah fitur keamanan biometrik p
 assalamualaikum wrwb|Waalaikumussalam wrwb
 Apa itu JSX?|JSX adalah ekstensi sintaks JavaScript yang memungkinkan penulisan HTML dalam kode JavaScript, digunakan terutama dengan React.
 Apa itu virtual DOM?|Virtual DOM adalah representasi in-memory dari DOM yang digunakan oleh pustaka seperti React untuk meningkatkan kinerja rendering.
-mohon minta data mahasiswa untuk pembayaran kuliah|\n\nData mahasiswa untuk pembayaran kuliah meliputi:\n\n- Nama mahasiswa\n- NIM\n- Program studi\n- Semester\n- Jumlah biaya yang harus dibayar\n- Tanggal pembayaran\n- Metode pembayaran (transfer bank, cek, dll.)\n- Bukti pembayaran (jika ada)
-dikarenakan no saya ganti|Maaf, saya tidak dapat mengakses akun Anda karena saya telah mengganti nomor telepon saya.
-jd maksudnya bagaimana|Maksudnya adalah bahwa seseorang harus mengambil tindakan yang diperlukan untuk mencapai tujuannya. Ini bisa berupa mengatur waktu, mengatur prioritas, mengatur diri, dan lainnya. Ini juga bisa berarti bahwa seseorang harus berusaha keras untuk mencapai tujuannya.
-ini justru mau bayar uang kuliah|nyaKami sangat menghargai keinginan Anda untuk membayar uang kuliah Anda. Untuk informasi lebih lanjut tentang cara membayar uang kuliah Anda, silakan hubungi kantor administrasi universitas Anda.
+Apa itu HTML templates?|HTML templates adalah elemen yang mendefinisikan bagian dari HTML yang dapat direplikasi dan digunakan dalam dokumen.
+Apa itu service worker?|Service worker adalah skrip yang berjalan di latar belakang browser untuk mengelola cache, push notifications, dan background sync.
+Apa itu progressive web app (PWA)?|Progressive web app (PWA) adalah aplikasi web yang menggunakan teknologi web modern untuk memberikan pengalaman seperti aplikasi native.
+Apa itu single page application (SPA)?|Single page application (SPA) adalah aplikasi web yang memuat satu halaman HTML dan dinamis mengubah kontennya tanpa memuat ulang halaman.
 besok libur|Besok adalah hari Minggu, jadi besok adalah hari libur.
 Apa itu iOS?|iOS adalah sistem operasi mobile yang dikembangkan oleh Apple Inc., digunakan eksklusif pada perangkat iPhone, iPad, dan iPod Touch.
 Apa itu database clustering?|Database clustering adalah pengelompokan beberapa server database untuk bekerja bersama sebagai satu sistem untuk meningkatkan kinerja dan ketersediaan.
-puasa gak?|Tidak, tidak ada larangan untuk berolahraga saat berpuasa. Namun, ada beberapa hal yang perlu diperhatikan. Pertama, pastikan Anda memiliki cukup waktu untuk istirahat dan beristirahat sebelum berbuka puasa. Kedua, pastikan Anda mengonsumsi makanan yang cukup sebelum berolahraga. Ketiga, hindari berolahraga berat saat berpuasa. Terakhir, pastikan Anda minum cukup air selama berolahraga.
-absensi tm nvhhv|Untuk mengetahui absensi TM NVHHV, Anda harus menghubungi pihak yang bertanggung jawab atas absensi tersebut. Anda dapat menghubungi bagian administrasi atau bagian kepegawaian di perusahaan tersebut untuk mendapatkan informasi lebih lanjut.
-absensi tm nvhhv|Untuk mengetahui absensi TM NVHHV, Anda harus menghubungi pihak yang bertanggung jawab atas absensi tersebut. Anda dapat menghubungi bagian administrasi atau bagian kepegawaian di perusahaan tersebut untuk mendapatkan informasi lebih lanjut.
+Apa itu shadow DOM?|Shadow DOM adalah teknologi yang memungkinkan isolasi DOM dan CSS dalam komponen web untuk mencegah konflik gaya dan struktur.
+Apa itu web component?|Web component adalah kumpulan teknologi untuk membuat elemen HTML yang dapat digunakan kembali dengan shadow DOM, custom elements, dan HTML templates.
+Apa itu custom elements?|Custom elements adalah API yang memungkinkan pembuatan elemen HTML kustom dengan perilaku khusus.
 Apa itu eventual consistency?|Eventual consistency adalah model konsistensi di mana update pada database akan menyebar ke semua node, tetapi tidak dijamin konsisten segera setelah update.
-erifikasi pembayaranva|Verifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lain yang diperlukan. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+Apa itu microtask queue?|Microtask queue adalah antrean untuk tugas-tugas kecil, seperti promise callback, yang memiliki prioritas lebih tinggi daripada callback queue.
 Apa itu data abstraction?|Data abstraction adalah proses menyembunyikan detail teknis dan hanya menampilkan informasi yang relevan bagi pengguna.
 Apa itu schema evolution?|Schema evolution adalah proses perubahan struktur database, seperti menambah, mengubah, atau menghapus tabel dan kolom, tanpa mengganggu aplikasi yang menggunakan database.
 Apa itu data dictionary?|Data dictionary adalah metadata yang mendeskripsikan definisi, struktur, dan hubungan data dalam database.
